@@ -13,14 +13,14 @@ caption:
 
 <br />
 
-I am broadly interested in developing statistical tools for applications relevant to public policy and public health.
+I am broadly interested in provably and practical decision-making.
 More specifically I'm interested in:
 
-* Official Statistics
-* Small Area Estimation
-* Analysis of Complex Surveys
-* Markov Random Field Models (spatial & temporal)
-* Bayesian Methods
+* Reinforcement Learning (robustness, safety, offline)
+* Multi-armed Bandit (multi-agent, Thompson Sampling)
+* Robotics, drone
+* Neuromodulation (deep brain stimulation, vagus nerve stimulation)
+
 
 I am advised by [Miroslav Pajic](https://scholar.google.com/citations?hl=en&user=Fbn21-8AAAAJ&view_op=list_works&sortby=pubdate).
 
