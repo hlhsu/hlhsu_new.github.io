@@ -28,23 +28,10 @@ image:
 
 #### Abstract
 
-**[Compsci 590 Data Science](https://sites.google.com/view/intro2ds/home)**
-
-* Spring 2023 with [Prof. Jian Pei](https://scholar.google.com/citations?user=zIMEVKsAAAAJ&hl=en) at Duke University 
-
-**[CS 7280 Network Science](https://faculty.cc.gatech.edu/~dovrolis/Courses/NetSci/)**
-
-* Spring, Summer, and Fall 2021 with [Prof. Constantine Dovrolis](https://scholar.google.com/citations?user=sfuwsSwAAAAJ&hl=en) at Georgia Tech
-
-**EE 5040 Clinical Application of Medical Electronic Device**
-
-* Fall 2017 with [Prof. Chih-Ting Lin](https://scholar.google.com/citations?user=aXh0ViUAAAAJ&hl=en) at National Taiwan University
-
-**Biomed 7110 Clinical Observation & Demands Exploration**
-
-* Summer 2017 with [Prof. Fa-Hsuan Lin](https://scholar.google.com/citations?user=d7qkLhoAAAAJ&hl=en) at National Taiwan University
-
-
+1. Neuroweaver: a translational platform for embedding artificial intelligent in closed-loop neuromodulation systems
+2. Sparc: Adaptive Closed-loop Control of Vagal Nerve Stimulation for Regulating Cardiovascular Function Using Deep Reinforcement Learning: A Computational Study (Paper)
+3. Neuroweaver: A Platform for Designing Intelligent Closed-loop Neuromodulation Systems (Paper)
+4. Functional Connectivity Correlates to Individual Difference in Human Brains during Working Memory Task and Resting State (Slides) 
 
 ***
 
