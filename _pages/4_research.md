@@ -22,10 +22,10 @@ More specifically I'm interested in:
 * Markov Random Field Models (spatial & temporal)
 * Bayesian Methods
 
-I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
+I am advised by [Miroslav Pajic]([https://zehangli.com](https://scholar.google.com/citations?hl=en&user=Fbn21-8AAAAJ&view_op=list_works&sortby=pubdate)).
 
 ***
 
 Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290).
 
-*Updated: Sept 2022*
+*Updated: Aug 2023*
