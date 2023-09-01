@@ -10,7 +10,7 @@ Skip to [short professional summary](#prof).
 
 ### Personal
 
-I’m Hao-Lun (Howard) Hsu, a second-year CS Ph.D. student at Duke University advised by Prof. Miroslav Pajic. I am an NSF TAST-NRT fellow and supported to study surgical robotics in my first year.
+I’m Hao-Lun (Howard) Hsu, a second-year CS Ph.D. student at Duke University advised by Prof. Miroslav Pajic. I am an <b><a href="https://tast-nrt.pratt.duke.edu/" style="color: darkred;">NSF TAST-NRT fellow</a></b>  and supported to study surgical robotics in my first year.
 
 My research interests lie at the intersection of **Reinforcement Learning (RL) and Robotics/ Neuromodulation**, which I am particularly interested in improving **safety, interpretability**, and robustness with real-world data. 
 
