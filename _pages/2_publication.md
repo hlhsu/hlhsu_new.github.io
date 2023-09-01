@@ -6,16 +6,13 @@ image:
 ---
 #### Conference
 1. Automated Tuning of Closed-loop Neuromodulation Control Systems using Bayesian Optimization (Paper) 
-* Parisa Sarikhani, **Hao-Lun Hsu**, Babak Mahmoudi
-* 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) 2022
-2. Improving Safety in Deep Reinforcement Learning Using Unsupervised Action Planning (Paper) (Webpage)
-   
+* ^Parisa Sarikhani, **Hao-Lun Hsu**, Babak Mahmoudi^
+* ^44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC) 2022^
+2. Improving Safety in Deep Reinforcement Learning Using Unsupervised Action Planning (Paper) (Webpage)   
 * **Hao-Lun Hsu**, Qihua Huang, Sehoon Ha  
 * IEEE International Conference on Robotics and Automation (ICRA) 2022
-
 3. New Spherical Stent Concept for Cancer Occlusion (Paper) (Webpage)
-   
-* Jiong-Hong Chen, **Hao-Lun Hsu**, Wen-Hsin Yang, Yi-Chun Chen, Hao-Ming Hsiao
+* ^Jiong-Hong Chen, **Hao-Lun Hsu**, Wen-Hsin Yang, Yi-Chun Chen, Hao-Ming Hsiao^
 * Annual Scientific Meeting of Taiwanese Society of Biomechanics 2017
   
 #### Workshop Papers & Technical Reports
