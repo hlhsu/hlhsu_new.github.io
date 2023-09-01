@@ -5,13 +5,17 @@ permalink: /teaching/
 image:
 ---
 
-Teaching is arguably the most impactful part of my graduate training.
-I love teaching introductory statistics!
+I am actively working on RL research projects with undergraduate and high school students.
+I also earned teaching assistantship experience in both Computer Science and Biomedical Engineering courses.
 
-The following are the classes I have TA-ed for at UC Santa Cruz.
-If you're a TA and would like access to any of my slides or materials, please contact me.
+### Research Mentoring (AI4Science)
+[^1]: Yang Chen (UC Berkeley): Robotics, Fall 2023
+[^2]: Alexander Wang (West Windsor Plainsboro High School North): Fake news detection, Fall 2023
+[^3]: Nirav Jaiswal (Foothill High School): Cloud computing, Summer 2023
+[^4]: Indu Arimilli (Redmond High School): Diagnosis prediction, Summer 2023
+[^5]: Ian Choe (St. Mark’s School): Deep brain stimulation, Summer 2023
 
-***Teaching Assistantship***
+### Teaching Assistantship
 
 **[Compsci 590 Data Science](https://sites.google.com/view/intro2ds/home)**
 
@@ -29,7 +33,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 * Summer 2017 with [Prof. Fa-Hsuan Lin](https://scholar.google.com/citations?user=d7qkLhoAAAAJ&hl=en) at National Taiwan University
 
-***Research Mentoring***
+
 
 ***
 
