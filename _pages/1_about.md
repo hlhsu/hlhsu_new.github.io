@@ -10,26 +10,13 @@ Skip to [short professional summary](#prof).
 
 ### Personal
 
-I seem to always be changing but people often describe me as energetic, funny, and open. I love traveling, cooking, sports, gardening, and spending time with my partner Laura.  I try to value relationships & experiences more than stuff. I want to be remembered as someone with a big heart.
+I’m Hao-Lun (Howard) Hsu, a second-year CS Ph.D. student at Duke University advised by Prof. Miroslav Pajic. I am an NSF TAST-NRT fellow and supported to study surgical robotics in my first year.
 
-Insight Meditation practice has and continues to change my life for the better.
+My research interests lie at the intersection of **Reinforcement Learning (RL) and Robotics/ Neuromodulation**, which I am particularly interested in improving **safety, interpretability**, and robustness with real-world data. 
 
-#### My Story
+I received M.S. in Biomedical Engineering from Georgia Tech and B.S. in Mechanical Engineering from National Taiwan University (NTU). During my master's studies, I was advised by Prof. Sehoon Ha to collaborate with Pacific Northwest National Laboratory on developing safe RL algorithms for robotics and worked with Prof. Babak Mahmoudi on RL closed-loop control for neuromodulation.
 
-**I was born in Tokyo, Japan.**  My mom was born here while my grandpa was at CalTech [^1], which enables me to be a US citizen[^2]. Balancing my Japanese roots with my American upbringing was challenging but rewarding.
-
-**Grew up in Hawaii** which is a gentle, beautiful place. Blessed to have grown up there.
-
-**Moved to Northern California in 2008.** I went to a hippy-arts type of High School in Sacramento. I played sports & loved doing theatre. I also love Sac!
-
-**UC Berkeley / East Bay.** At Berkeley, I was mostly interested in clean energy (statistics was a secondary interest).  After college, I worked for a major solar energy developer.
-
-**Big Changes.** In 2019, let go from what I thought was my dream job. I went on an amazing trip to SE Asia. I also began dating Laura & started to seriously meditate: these three things I think have been the best things that have ever happened to me.
-
-**Back in Sacramento.** Moved back right before Covid. Worked at the State Government which made me believe in the importance of people with technical skills in civil service.
-
-**Now:**  Currently a PhD student splitting my time between Sacramento & Santa Cruz. I play softball, meditate, and garden on my spare time.
-
+I have previously worked for Curai Health, Reazon Holdings, inc., Abbott Vascular, and Dassault Systèmes. 
 ***
 
 ### <a name="prof"></a> Short Professional Summary
@@ -39,16 +26,21 @@ or [my resume](https://drive.google.com/open?id=1ZVtpD5_ce3GugtP2-UIJeuY1yLRX2FI
 
 
 **EXPERIENCE**
-* Teaching Assistant, Sept. 2021 - Current
-  - UC Santa Cruz, Statistics Department
-* Research Data Analyst II, Oct. 2020—Jun, 2021.
-  - CA. Dept. of Healthcare Services, Local Government Financing
-* Staff Research Associate, Oct. 2019—Jul. 2020.
-  - Dept. of Atmospheric Chemistry, UC Davis
-* Data Science Intern, Aug. 2019-Nov. 2019.
-  - New Sun Road, P.B.C.
-* Quantitative Analyst, Apr. 2019-Feb. 2017.
-  - Intersect Power
+* Graduate Research Assistant, Aug. 2022 - Current
+  - Cyber-physical Systems Lab, Duke University
+* Graduate Teaching Assistant, Jan. 2023 - May 2023
+  - Compsci 590 Data Science, Duke University
+* Graduate Research Assistant, Jan. 2021 - Jul. 2022
+  - Neuroinformatics & Intelligent Systems Lab, Emory University
+* Graduate Research Assistant, Jan. 2020 - Oct. 2021
+  - Computer Animation \& Robotics Lab, Georgia Tech
+* Graduate Teaching Assistant, Jan. 2021 - Dec. 2021
+  - CS 7280 Network Science, Georgia Tech
+* Teaching Assistant, Sept. 2017 - Jan. 2018
+  - EE 5040 Clinical Application of Medical Electronic Device, NTU
+* Teaching Assistant, Jul. 2017 - Aug. 2017
+  - Biomed 7110 Clinical Observation & Demands Exploration, NTU
+
 
 Additional Internship experiences at SunPower Corporation and WattTime.org
 
