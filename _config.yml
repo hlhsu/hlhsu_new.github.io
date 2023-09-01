@@ -2,29 +2,29 @@ title: Sho Kawano
 logo:  # you can add own logo.
 description:
 baseurl: ""
-url: https://sho-kawano.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://hlhsu.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Sho Kawano
-  image: '/assets/img/about.jpg'
+  name: Hao-Lun (Howard) Hsu
+  image: '/assets/img/howard_profile.jpg'
   job: Welcome to my page!
   bio: |+
     <br />
-    I'm currently a PhD Student in Statistics at UC Santa Cruz.
+    I'm currently a PhD Student in Computer Science at Duke University.
     <br />
     <br />
-    I am broadly interested in developing statistical tools for applications relevant to public policy.
+    I am broadly interested in provably and practical decision-making (e.g., Reinforcement Learning, Multi-armed bandits).
     I previously worked in clean energy with a brief stint at the CA State Government.
     <br />
     <br />
     This site is a blend of professional/personal content.
     <br />
   resume: https://drive.google.com/open?id=1J6aLCXWmPvK0Uocgy3uAun6HobrFwFxT&authuser=shokawano5%40gmail.com&usp=drive_fs
-  email: shkawano@ucsc.edu
-  github: https://github.com/sho-kawano
-  last_update:  July 2023
+  email: hao-lun.hsu@duke.edu
+  github: https://github.com/hlhsu
+  last_update:  August 2023
 
 
 
