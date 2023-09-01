@@ -22,7 +22,7 @@ More specifically I'm interested in:
 * Markov Random Field Models (spatial & temporal)
 * Bayesian Methods
 
-I am advised by [Miroslav Pajic]([https://zehangli.com](https://scholar.google.com/citations?hl=en&user=Fbn21-8AAAAJ&view_op=list_works&sortby=pubdate)).
+I am advised by [Miroslav Pajic](https://scholar.google.com/citations?hl=en&user=Fbn21-8AAAAJ&view_op=list_works&sortby=pubdate).
 
 ***
 
