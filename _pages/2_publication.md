@@ -19,7 +19,9 @@ image:
    
 * Jiong-Hong Chen, **Hao-Lun Hsu**, Wen-Hsin Yang, Yi-Chun Chen, Hao-Ming Hsiao
 * Annual Scientific Meeting of Taiwanese Society of Biomechanics 2017
+  
 #### Workshop Papers & Technical Reports
+
 1. Yang Chen (UC Berkeley): Robotics, Fall 2023
 2. Alexander Wang (West Windsor Plainsboro High School North): Fake news detection, Fall 2023
 3. Nirav Jaiswal (Foothill High School): Cloud computing, Summer 2023
