@@ -13,16 +13,19 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 **[Compsci 590 Data Science](https://sites.google.com/view/intro2ds/home)**
 
-* [Spring 2023 with Prof. Jian Pei](https://scholar.google.com/citations?user=zIMEVKsAAAAJ&hl=en)
+* Spring 2023 with [Prof. Jian Pei](https://scholar.google.com/citations?user=zIMEVKsAAAAJ&hl=en) at Duke University 
 
 **[CS 7280 Network Science](https://faculty.cc.gatech.edu/~dovrolis/Courses/NetSci/)**
 
-* [Spring, Summer, Fall 2021 with Prof. Constantine Dovrolis](https://scholar.google.com/citations?user=sfuwsSwAAAAJ&hl=en)
+* Spring, Summer, and Fall 2021 with [Prof. Constantine Dovrolis](https://scholar.google.com/citations?user=sfuwsSwAAAAJ&hl=en) at Georgia Tech
 
-**Stat 131, Introductory Probability**
+**EE 5040 Clinical Application of Medical Electronic Device**
 
-* Winter 2023 with Prof. Alfaro-Córdoba (No Section-Specific Page)
-* Summer 2023 with Prof. David Draper (No Section-Specific Page)
+* Fall 2017 with [Prof. Chih-Ting Lin](https://scholar.google.com/citations?user=aXh0ViUAAAAJ&hl=en)
+
+**Biomed 7110 Clinical Observation & Demands Exploration**
+
+* Summer 2017 with [Prof. Fa-Hsuan Lin](https://scholar.google.com/citations?user=d7qkLhoAAAAJ&hl=en)
 
 ***
 
