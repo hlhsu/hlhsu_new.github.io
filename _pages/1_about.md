@@ -33,7 +33,7 @@ or [my resume](https://drive.google.com/open?id=1ZVtpD5_ce3GugtP2-UIJeuY1yLRX2FI
 * Graduate Research Assistant, Jan. 2021 - Jul. 2022
   - Neuroinformatics & Intelligent Systems Lab, Emory University
 * Graduate Research Assistant, Jan. 2020 - Oct. 2021
-  - Computer Animation \& Robotics Lab, Georgia Tech
+  - Computer Animation & Robotics Lab, Georgia Tech
 * Graduate Teaching Assistant, Jan. 2021 - Dec. 2021
   - CS 7280 Network Science, Georgia Tech
 * Teaching Assistant, Sept. 2017 - Jan. 2018
@@ -42,25 +42,7 @@ or [my resume](https://drive.google.com/open?id=1ZVtpD5_ce3GugtP2-UIJeuY1yLRX2FI
   - Biomed 7110 Clinical Observation & Demands Exploration, NTU
 
 
-Additional Internship experiences at SunPower Corporation and WattTime.org
-
-**EDUCATION**
-* PhD Student in Statistics,  2021—Current
-  - University of California, Santa Cruz
-  - *Passed Preliminary Exams, Sept 2022*
-* B.A. Statistics, High Honors, 2013-2017
-  - University of California, Berkeley
-
-**HONORS**
-* Honorable Mention, NSF Graduate Student Fellowships Program (GRFP), 2021
-* Phi Beta Kappa & High Distinction in General Scholarship, UC Berkeley, 2017.
-
-
-
 
 ***
 
-*Updated: Feb. 2023*
-
-[^1]: He did his postdoc with Murray Gell-Man.  My grandpa has always been a big insipiration for me.
-[^2]: [Thanks to the struggle of Chinese immigrants](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark)
+*Updated: Aug. 2023*
