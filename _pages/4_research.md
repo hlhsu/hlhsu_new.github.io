@@ -26,6 +26,5 @@ I am advised by [Miroslav Pajic](https://scholar.google.com/citations?hl=en&user
 
 ***
 
-Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290).
 
 *Updated: Aug 2023*
