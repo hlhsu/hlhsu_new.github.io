@@ -38,4 +38,4 @@ I also earned teaching assistantship experience in both Computer Science and Bio
 
 ***
 
-{% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
+{% include image.html url="/assets/img/thank_teacher.png" description="Thank a Teacher Award for Teaching Spring 2021 CS 7280 Network Science" %}
