@@ -44,4 +44,4 @@ image:
 
 ***
 
-{% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
+{% include image.html url="/assets/img/NTUME_ICRA.jpg" description="NTU ME Alumni met at ICRA 2022" %}
