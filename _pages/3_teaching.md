@@ -38,4 +38,6 @@ I also earned teaching assistantship experience in both Computer Science and Bio
 
 ***
 
-{% include image.html url="/assets/img/thank_teacher.png" description="Thank a Teacher Award for Teaching Spring 2021 CS 7280 Network Science" %}
+{% include image.html url="/assets/img/thank_teacher.png" description="Thank a Teacher Award from Center of Teaching and Learning at Georgia Tech for Teaching Spring 2021 CS 7280" %}
+
+{% include image.html url="/assets/img/TA_Biomed7110.jpg" description="Group of Teaching Assistants of Biomed 7110" %}
