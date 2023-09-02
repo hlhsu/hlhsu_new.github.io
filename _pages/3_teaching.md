@@ -14,6 +14,7 @@ I also earned teaching assistantship experience in both Computer Science and Bio
 3. Nirav Jaiswal (Foothill High School): Cloud computing, Summer 2023
 4. Indu Arimilli (Redmond High School): Diagnosis prediction, Summer 2023
 5. Ian Choe (St. Mark’s School): Deep brain stimulation, Summer 2023
+6. Christian J Kim (Korea International School Pangyo): Ballet, Summer 2023
 
 ### Teaching Assistantship
 
