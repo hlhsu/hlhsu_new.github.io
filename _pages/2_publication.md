@@ -17,18 +17,30 @@ image:
   
 #### Workshop Papers & Technical Reports
 
-1. Yang Chen (UC Berkeley): Robotics, Fall 2023
-2. Alexander Wang (West Windsor Plainsboro High School North): Fake news detection, Fall 2023
-3. Nirav Jaiswal (Foothill High School): Cloud computing, Summer 2023
-4. Indu Arimilli (Redmond High School): Diagnosis prediction, Summer 2023
-5. Ian Choe (St. Mark’s School): Deep brain stimulation, Summer 2023
+1. Neuroweaver: Towards a Platform for Designing Translatable Intelligent Closed-loop Neuromodulation Systems
+* Parisa Sarikhani, **Hao-Lun Hsu**, Joon Kyung Kim, Sean Kinzer, Edwin Mascarenhas, Hadi Esmaeilzadeh, Babak Mahmoudi
+*  Neural Information Processing Systems (**NeurIPS**) Research2Clinics Workshop 2021
+2. Safe Exploration for Reinforcement Learning Using Unsupervised Action Planning (Paper) (Video)
+* **Hao-Lun Hsu**, Qihua Huang, Sehoon Ha
+* Robotics: Science & Systems (**RSS**) Workshop on Integrating Planning and Learning 2021
+3. Development of Intelligent Mechanical Technology
+* Wen-Yu Liu, **Hao-Lun Hsu**, Yu-Chen Lin, Nai-Yun Tung, Yu-Ting Chen, Shuo-Hung Chang
+* Chinese Society of Mechanica Engineers 2016
 
 #### Abstract
 
 1. Neuroweaver: a translational platform for embedding artificial intelligent in closed-loop neuromodulation systems
+* Parisa Sarikhani, Hanyang Xu, Shu-Ting Wang, Sean Kinzer, **Hao-Lun Hsu**, Yusen Zhu, Josh Krasney, Joseph R. Manns, Hadi Esmaeilzadeh, Babak Mahmoudi
+* Neuroscience 2023, 52nd Annual Meeting
 2. Sparc: Adaptive Closed-loop Control of Vagal Nerve Stimulation for Regulating Cardiovascular Function Using Deep Reinforcement Learning: A Computational Study (Paper)
+* Parisa Sarikhani, **Hao-Lun Hsu**, Mahmoud Zeydabadinezhad, Yuyu Yao, Mayuresh Kothare, Babak Mahmoudi
+* Neuroscience 2021, 50th Annual Meeting
 3. Neuroweaver: A Platform for Designing Intelligent Closed-loop Neuromodulation Systems (Paper)
-4. Functional Connectivity Correlates to Individual Difference in Human Brains during Working Memory Task and Resting State (Slides) 
+* Parisa Sarikhani, **Hao-Lun Hsu**, Ozgur Kara, Joon Kyung Kim, Hadi Esmaeilzadeh, Babak Mahmoudi
+* 4th International Brain Stimulation Conference, 2021
+4. Functional Connectivity Correlates to Individual Difference in Human Brains during Working Memory Task and Resting State (Slides)
+* **Hao-Lun Hsu**
+* IEEE EMBS North American Virtual International Student Conference (EMBS ISC), 2021
 
 ***
 
