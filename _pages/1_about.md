@@ -2,8 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/img/laura.jpeg
-caption: Me and Laura in front of Mt. Whitney in Alabama Hills.
+image: /assets/img/runner_photo.jpg
+caption: Night Nation Run - Raleigh
 ---
 
 Skip to [short professional summary](#prof).
