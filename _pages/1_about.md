@@ -27,22 +27,6 @@ For a full professional summary please [see my CV](https://drive.google.com/open
 or [my resume](https://drive.google.com/open?id=1ZVtpD5_ce3GugtP2-UIJeuY1yLRX2FIE&authuser=shokawano5%40gmail.com&usp=drive_fs) .
 
 
-**EXPERIENCE**
-Graduate Research Assistant, Aug. 2022 - Current
-  - Cyber-physical Systems Lab, Duke University
-Graduate Teaching Assistant, Jan. 2023 - May 2023
-  - Compsci 590 Data Science, Duke University
-Graduate Research Assistant, Jan. 2021 - Jul. 2022
-  - Neuroinformatics & Intelligent Systems Lab, Emory University
-Graduate Research Assistant, Jan. 2020 - Oct. 2021
-  - Computer Animation & Robotics Lab, Georgia Tech
-Graduate Teaching Assistant, Jan. 2021 - Dec. 2021
-  - CS 7280 Network Science, Georgia Tech
-Teaching Assistant, Sept. 2017 - Jan. 2018
-  - EE 5040 Clinical Application of Medical Electronic Device, NTU
-Teaching Assistant, Jul. 2017 - Aug. 2017
-  - Biomed 7110 Clinical Observation & Demands Exploration, NTU
-
 
 
 ***
