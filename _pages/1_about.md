@@ -10,9 +10,9 @@ Skip to [short professional summary](#prof).
 
 ### Personal
 
-I’m Hao-Lun (Howard) Hsu, a second-year CS Ph.D. student at Duke University advised by Prof. Miroslav Pajic. I am an <b><a href="https://tast-nrt.pratt.duke.edu/">NSF TAST-NRT fellow</a></b>  and supported to study surgical robotics in my first year.
+I’m Hao-Lun (Howard) Hsu, a second-year CS Ph.D. student at Duke University advised by Prof. Miroslav Pajic. I am an <b><a href="https://tast-nrt.pratt.duke.edu/">NSF TAST-NRT fellow</a></b> and supported to study surgical robotics in my first year.
 
-My research interests lie at the intersection of **Reinforcement Learning (RL) and Robotics/ Neuromodulation**, which I am particularly interested in improving [safety](https://drive.google.com/open?id=1DjsDccl-Dc8x3vqGcyw5Iu1aja2uZd6A&authuser=shokawano5%40gmail.com&usp=drive_fs) and [robustness](https://drive.google.com/open?id=1DjsDccl-Dc8x3vqGcyw5Iu1aja2uZd6A&authuser=shokawano5%40gmail.com&usp=drive_fs) with real-world data. 
+My research concerns **Reinforcement Learning**, including [safety](https://arxiv.org/abs/2109.14325) and [robustness]([https://drive.google.com/open?id=1DjsDccl-Dc8x3vqGcyw5Iu1aja2uZd6A&authuser=shokawano5%40gmail.com&usp=drive_fs](https://arxiv.org/abs/2306.07408)) with applications of robotics and neuromodulation.
 
 I received M.S. in Biomedical Engineering from Georgia Tech and B.S. in Mechanical Engineering from National Taiwan University (NTU). During my master's studies, I was advised by Prof. Sehoon Ha to collaborate with Pacific Northwest National Laboratory on developing safe RL algorithms for robotics and worked with Prof. Babak Mahmoudi on RL closed-loop control for neuromodulation.
 
