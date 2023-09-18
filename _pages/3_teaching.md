@@ -9,12 +9,12 @@ I am actively working on RL research projects with undergraduate and high school
 I also earned teaching assistantship experience in both Computer Science and Biomedical Engineering courses.
 
 ### Research Mentoring (AI4Science)
-1. Yang Chen (UC Berkeley): Robotics, Fall 2023
+1. Yang Chen (UC Berkeley): Surgical Robotics, Fall 2023
 2. Alexander Wang (West Windsor Plainsboro High School North): Fake news detection, Fall 2023
 3. Nirav Jaiswal (Foothill High School): Cloud computing, Summer 2023
 4. Indu Arimilli (Redmond High School): Diagnosis prediction, Summer 2023
 5. Ian Choe (St. Mark’s School): Deep brain stimulation, Summer 2023
-6. Christian J Kim (Korea International School Pangyo): Ballet, Summer 2023
+6. Christian J Kim (Korea International School Pangyo): Biomechanics, Summer 2023
 
 ### Teaching Assistantship
 
